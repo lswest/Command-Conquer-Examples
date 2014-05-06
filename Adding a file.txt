@@ -1,0 +1,7 @@
+touch "Adding a file.txt"
+
+git add "Adding a file.txt"
+
+git commit -m "Adding a file"
+
+git push origin master
